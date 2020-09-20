@@ -9,4 +9,4 @@ This project features:
 - Page pagination
 - Search filtering by description, location, or full-time
 
-**API used: (GitHub Jobs)[https://jobs.github.com/api]**
+**API used: [GitHub Jobs](https://jobs.github.com/api)**
